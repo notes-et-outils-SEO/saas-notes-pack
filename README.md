@@ -15,16 +15,16 @@ Le dossier comprend trois pages de cadrage et dix guides courts consacrés à l'
 - `DISCLOSURE.md` - cadre de transparence éditoriale
 - `EDITORIAL_METHOD.md` - méthode d'évaluation et principes de lecture
 - `PUBLICATION_ORDER.md` - ordre conseillé pour publier ce corpus de manière cohérente
-- `01-comment-comparer-un-outil-saas-sans-se-faire-avoir.md` - comparer un SaaS sans se limiter à sa vitrine
-- `02-checklist-audit-outil-seo-ou-automation.md` - checklist commentée pour relire un outil
-- `03-comment-lire-une-grille-tarifaire-saas.md` - lecture critique d'une page tarifaire
-- `04-difference-entre-outil-complet-et-outil-specialise.md` - arbitrer entre suite large et outil ciblé
-- `05-comment-evaluer-un-outil-multilingue-pour-le-seo.md` - points de contrôle pour la traduction et la localisation SEO
-- `06-comment-evaluer-un-outil-de-prospection-linkedin.md` - prudence méthodologique autour des outils de prospection
-- `07-limites-des-outils-all-in-one-pour-le-seo.md` - analyse nuancée des suites universelles
-- `08-comment-noter-les-cas-d-usage-reels-d-un-saas.md` - méthode pour documenter les usages concrets
-- `09-erreurs-frequentes-dans-les-pages-d-avis-outils.md` - erreurs récurrentes dans les avis d'outils
-- `10-glossaire-minimal-seo-automation-prospection-saas.md` - définitions utiles pour garder un vocabulaire clair
+- `comment-comparer-un-outil-saas-sans-se-faire-avoir.md` - comparer un SaaS sans se limiter à sa vitrine
+- `checklist-audit-outil-seo-ou-automation.md` - checklist commentée pour relire un outil
+- `comment-lire-une-grille-tarifaire-saas.md` - lecture critique d'une page tarifaire
+- `difference-entre-outil-complet-et-outil-specialise.md` - arbitrer entre suite large et outil ciblé
+- `comment-evaluer-un-outil-multilingue-pour-le-seo.md` - points de contrôle pour la traduction et la localisation SEO
+- `comment-evaluer-un-outil-de-prospection-linkedin.md` - prudence méthodologique autour des outils de prospection
+- `limites-des-outils-all-in-one-pour-le-seo.md` - analyse nuancée des suites universelles
+- `comment-noter-les-cas-d-usage-reels-d-un-saas.md` - méthode pour documenter les usages concrets
+- `erreurs-frequentes-dans-les-pages-d-avis-outils.md` - erreurs récurrentes dans les avis d'outils
+- `glossaire-minimal-seo-automation-prospection-saas.md` - définitions utiles pour garder un vocabulaire clair
 
 ## 👥 À qui cela peut servir
 

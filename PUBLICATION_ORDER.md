@@ -5,17 +5,17 @@ Pour construire un ensemble éditorial cohérent, il est logique de commencer pa
 ## 📌 Ordre recommandé
 
 1. `EDITORIAL_METHOD.md` - poser d'abord la grille de lecture générale.
-2. `10-glossaire-minimal-seo-automation-prospection-saas.md` - clarifier le vocabulaire avant de multiplier les analyses.
-3. `02-checklist-audit-outil-seo-ou-automation.md` - offrir un repère pratique immédiatement réutilisable.
-4. `03-comment-lire-une-grille-tarifaire-saas.md` - traiter tôt la question du coût réel, souvent mal lue.
-5. `01-comment-comparer-un-outil-saas-sans-se-faire-avoir.md` - compléter le cadre avec une méthode de comparaison plus large.
+2. `glossaire-minimal-seo-automation-prospection-saas.md` - clarifier le vocabulaire avant de multiplier les analyses.
+3. `checklist-audit-outil-seo-ou-automation.md` - offrir un repère pratique immédiatement réutilisable.
+4. `comment-lire-une-grille-tarifaire-saas.md` - traiter tôt la question du coût réel, souvent mal lue.
+5. `comment-comparer-un-outil-saas-sans-se-faire-avoir.md` - compléter le cadre avec une méthode de comparaison plus large.
 6. `DISCLOSURE.md` - publier ensuite le cadre de transparence pour situer le dossier.
-7. `08-comment-noter-les-cas-d-usage-reels-d-un-saas.md` - montrer comment documenter un usage concret.
-8. `09-erreurs-frequentes-dans-les-pages-d-avis-outils.md` - hausser le niveau de lecture critique des contenus outils.
-9. `04-difference-entre-outil-complet-et-outil-specialise.md` - introduire un arbitrage utile et transversal.
-10. `07-limites-des-outils-all-in-one-pour-le-seo.md` - prolonger cette réflexion avec une note plus analytique.
-11. `05-comment-evaluer-un-outil-multilingue-pour-le-seo.md` - ouvrir vers un cas métier spécifique mais fréquent.
-12. `06-comment-evaluer-un-outil-de-prospection-linkedin.md` - publier ensuite le guide sur la prospection, avec son angle prudent.
+7. `comment-noter-les-cas-d-usage-reels-d-un-saas.md` - montrer comment documenter un usage concret.
+8. `erreurs-frequentes-dans-les-pages-d-avis-outils.md` - hausser le niveau de lecture critique des contenus outils.
+9. `difference-entre-outil-complet-et-outil-specialise.md` - introduire un arbitrage utile et transversal.
+10. `limites-des-outils-all-in-one-pour-le-seo.md` - prolonger cette réflexion avec une note plus analytique.
+11. `comment-evaluer-un-outil-multilingue-pour-le-seo.md` - ouvrir vers un cas métier spécifique mais fréquent.
+12. `comment-evaluer-un-outil-de-prospection-linkedin.md` - publier ensuite le guide sur la prospection, avec son angle prudent.
 13. `README.md` - utiliser l'index comme porte d'entrée quand plusieurs textes sont déjà en place.
 14. `PUBLICATION_ORDER.md` - garder cette note comme repère interne ou la publier en dernier si elle doit être visible.
 
